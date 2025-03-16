@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Misbah Riaz</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
-<img align="right" alt="coding" width="200px" src="https://images.lemonly.com/wp-content/uploads/2018/08/07150313/Homebase_Thumb_v01.gif/>
+
 
 - 🔭 I’m currently working on **Frontend**
 
