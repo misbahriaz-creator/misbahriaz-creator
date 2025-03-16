@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Misbah Riaz</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
+<p>With a strong foundation in HTML, CSS, and JavaScript, I specialize in building modern, responsive, and performant web applications. I'm always exploring new technologies and improving my skills to create seamless digital experiences. Check out my repositories to see my latest projects!</p>
 
 
 - 🔭 I’m currently working on **Frontend**
